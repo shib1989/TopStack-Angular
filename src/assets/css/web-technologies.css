@@ -1,0 +1,71 @@
+.web-title {
+	top: 50%;
+    left: 5%;
+}
+.web-details {
+	margin-bottom: 100px;
+}
+.web-img {
+	z-index: -100;
+}
+.web-title h1 {
+  	color: #c5c5c5;
+  	font-size: 42px;
+    font-weight: 800;
+    font-family: 'San Francisco',sans-serif;
+}
+.web-title h1 span {
+	color: #009955;
+}
+.web-section {
+	margin-top: 100px;
+}
+.color {
+	background-color: #00dc7a;
+	height: 100%;
+}
+.web-info {
+	padding: 15px;
+}
+.web-info h2 {
+	color: #fff;	
+}
+.web-info h2 span {
+	color: #009955;
+}
+.web-info p {
+	font-size: 17px;
+    margin-top: 15px;
+    margin-bottom: 40px;
+    color: #efefef;
+    font-weight: 300;
+}
+.web-info ul li {
+    color: #007541;
+    font-weight: 500;
+    margin-top: 10px;
+}
+.technologies_hr {
+    margin-bottom: 80px;
+    width: 225px;
+    margin-left: 42%;
+    height: 3px !important;
+    background: #009955;
+    opacity: 1;
+}
+.analytics_hr {
+	margin-bottom: 80px;
+    width: 160px;
+    margin-left: 43%;
+    height: 3px !important;
+    background: #009955;
+    opacity: 1;
+}
+
+/*mobile technologies CSS*/
+
+.web-info h4 {
+	font-size: 22px;
+    margin-top: 30px;
+    color: #fff;
+}
