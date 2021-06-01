@@ -1,0 +1,392 @@
+@media only screen and (min-device-width : 992px) and (max-device-width : 1199px) {
+	.wave {
+    	bottom: -55%;
+    }
+	.mission img {
+		height: 550px;
+	}
+	.service_second {
+    	top: 50px;
+    	left: 11%;
+    }
+    .counter_style {
+    	left: 10%;
+    	top: 75%;
+	}
+	.Ongoing_Courses {
+    	padding-top: 20%;
+	}
+	.new-gapp a {
+    	padding: 20px 108px;
+    }
+}
+@media only screen and (max-device-width: 991px) {
+	.responsive_bar {
+	    top: 2%;
+	}
+	.fa-bars {
+	    color: #005633;
+	    background: #8ec63f;
+	    padding: 15px;
+	    border-radius: 30px;
+	}
+	.upcoming_event_text h1 {
+    	font-size: 32px;
+    }
+    .upcoming_event_text p {
+	    font-size: 14px;
+	    font-weight: 300;
+	}
+	.upcoming_event_btn a {
+    	padding: 20px 90px;
+    }
+	.wave {
+    	bottom: -135%;
+    }
+    .subtitle {
+    	margin-left: 30%;
+    	margin-right: 30%;
+    }
+    .mm {
+    	margin-top: 10%;
+    }
+    .service_second {
+	    top: 45px;
+	    left: 13%;
+	}
+	.counter_style {
+	    top: 75%;
+	    left: 14%;
+	}
+	.Ongoing_Courses {
+    	padding-top: 25%;
+	}
+	.services_bg {
+	    width: 100% !important;
+	    height: 460px;
+	}
+	.card h3 {
+    	font-size: 32px;
+    }
+    .card ul {
+    	font-size: 22px;
+    }
+    .courses_hr {
+    	margin-left: 39%;
+    }
+    .new-gapp a {
+    	padding: 20px 228px;
+    }
+    .box img {
+	    width: 60%;
+	}
+	.box p {
+    	font-size: 15px !important;
+    }
+    #gtco-footer {
+    	text-align: center;
+    }
+    #gtco-footer input, #gtco-footer textarea {
+    	margin-left: 120px;
+    }
+    .follow-us-nav {
+    	margin-left: 35%;
+    }
+}
+@media only screen and (max-device-width : 767px) {
+	.upcoming_event_btn a {
+	    padding: 20px 50px;
+	}
+	.upcoming_event_btn {
+	    padding-top: 65px;
+	}
+	.wave {
+	    bottom: -85%;
+	}
+	.service_second p {
+	    font-size: 20px;
+	}
+	.counter_style {
+	    top: 60%;
+	    left: 14%;
+	}
+	.service_second {
+	    left: 14%;
+	}
+	.Ongoing_Courses {
+	    padding-top: 45%;
+	}
+	.courses_hr {
+	    margin-left: 35%;
+	}
+	.new-gapp a {
+	    padding: 20px 138px;
+	}
+	.modal_new {
+		width: 100%;
+		border: none;
+	}
+	.modal_new:hover {
+		color: #005633;
+	    background: transparent;
+	    border: none;
+	    box-shadow: none;
+	}
+	.modal_number {
+		padding: 0px !important;
+	}
+	.myLeftCtn {
+		width: 200%;
+	}
+	#gtco-footer input, #gtco-footer textarea {
+		margin-left: 0px;
+	}
+	.follow-us-nav {
+	    margin-left: 29%;
+	}
+
+	/*web-technologies responsive*/
+
+	.technologies_hr {
+    	margin-left: 30%;
+    }
+    .card ul {
+	    font-size: 18px;
+	}
+}
+@media only screen and (max-device-width : 477px) {
+	.main_manu {
+		text-align: right !important;
+		margin-right: 20px;
+	}
+	.fa-ellipsis-v {
+	    color: #005633;
+	}
+	.show {
+	    color: #005633;
+	    border: 1px solid #005633;
+	    margin-left: 69%;
+	}
+	.show:hover {
+	    color: #ffffff;
+	    background-color: #005633;
+	    box-shadow: 0 0 10px #005633, 0 0 15px #005633;
+	}
+	.upcoming_event_btn a {
+		padding: 15px 50px;
+		font-size: 18px;
+	}
+    .wave {
+	    bottom: -117%;
+	    display: none;
+	}
+	.counter_style {
+    	padding: 35px;
+    }
+    .slider_text a {
+    	padding: 13px 35px;
+    }
+    .services_bg {
+	    width: 1250px !important;
+	}
+	.subtitle {
+	    margin-left: 25%;
+	    margin-right: 20%;
+	}
+	.card {
+		margin: 0 30px 30px 30px;
+	}
+	.services_bg {
+	    width: 100% !important;
+	    height: 430px;
+	}
+	.service_second {
+	    left: 0%;
+	}
+	.service_second h1 {
+    	font-size: 42px;
+    }
+    .service_second p {
+	    font-size: 16px;
+	}
+	.counter_style {
+	    left: 0%;
+	}
+	.Ongoing_Courses {
+	    padding-top: 65%;
+	}
+	.Ongoing_Courses h1 {
+	    font-size: 30px;
+	}
+	.courses_hr {
+	    margin-left: 33%;
+	    width: 160px;
+	}
+	.bg-light {
+	    margin-left: 30px;
+    	margin-right: 30px;
+	}
+	.feedback_txt {
+		font-size: 14px !important;
+	}
+	.feedback_user {
+	    font-size: 16px;
+	}
+	footer {
+	    padding-top: 300px;
+	}
+	.item {
+	  	padding-right: 20px;
+	  	padding-left: 20px;
+	}
+	#gtco-footer .col-12 p {
+	    font-family: 'graphik',sans-serif;
+	    font-size: 15px;
+	    color: #005633;
+	}
+	footer {
+		text-align: center;
+	}
+	.follow-us-nav {
+		margin-left: 16%;
+	}
+	.contact_title_subtitle {
+   		margin-bottom: 60px;
+   	}
+   	#gtco-footer {
+	    padding-bottom: 20px;
+	    padding-top: 40px;
+	}
+	.follow-us-nav {
+	    margin-left: 25%;
+	}
+
+	/*web-technologies responsive*/
+
+	.web-title h1 {
+    	font-size: 36px;
+    }
+    .technologies_hr {
+	    margin-left: 25%;
+	}
+}
+@media only screen and (max-device-width : 419px) {
+	.show {
+	    margin-left: 60%;
+	}
+	.top_nav_icons p {
+    	font-size: 14px;
+    	margin-left: 0px !important;
+    }
+    .slider_text h2 {
+    	font-size: 41px;
+    }
+    .upcoming_event_text p {
+    	text-align: center !important;
+    }
+    .upcoming_event_btn {
+	    padding-top: 25px;
+	    padding-bottom: 20px;
+	}
+    .wave {
+	    bottom: -70%;
+	    display: none;
+	}
+	.about h1 {
+    	font-size: 52px;
+    }
+    .about p {
+    	font-size: 18px;
+    }
+    .mission img {
+    	margin-top: 30px;
+    }
+    .card h3 {
+	    font-size: 24px;
+	}
+	.card ul {
+	    font-size: 18px;
+	}
+	.contact_title {
+	    font-size: 32px;
+	}
+	.contact_title_subtitle {
+	    font-size: 22px;
+	}
+	.contact_form {
+	    font-size: 32px;
+	}
+    .btn {
+	     margin-bottom: 0px; 
+	}
+	.footer-copyright {
+    	font-size: 16px;
+    }
+    .new-gapp {
+	     padding: 0px; 
+	}
+	.new-gapp a {
+    	padding: 20px 98px;
+    }
+    .modal_new {
+    	background: transparent;
+	    width: 100%;
+	    border: none;
+	    box-shadow: none;
+    }
+    .modal-body p {
+    	font-size: 24px;
+    	color: #000;
+    }
+    .modal-body .modal_number {
+	     padding: 0px; 
+	}
+	.item {
+	  	padding-right: 20px;
+	  	padding-left: 20px;
+	}
+	#gtco-footer .col-12 p {
+	    font-family: 'graphik',sans-serif;
+	    font-size: 15px;
+	    color: #005633;
+	}
+	footer {
+		text-align: center;
+	}
+	.follow-us-nav {
+		margin-left: 16%;
+	}
+	.courses_hr {
+	    margin-left: 29%;
+	    margin-bottom: 30px;
+	}
+	.carousel-item {
+	    padding-bottom: 30px;
+	}
+	.choose_file {
+	    font-size: 14px;
+	    padding: 10px 30px;
+	}
+	#file-chosen {
+    	font-size: 13px;
+    }
+
+    /*web-technologies responsive*/
+
+    .responsive_bar {
+	    top: 2%;
+	}
+	.web-title h1 {
+	    font-size: 30px;
+	}
+	.technologies_hr {
+	    margin-left: 18%;
+	}
+	.card ul {
+	    font-size: 16px;
+	}
+	.analytics_hr {
+	    width: 110px;
+	    margin-left: 34%;
+	}
+}
